@@ -13,7 +13,6 @@ hellogrep
 hellogrep
 hellogrep
 hellogrep
-<<<<<<< HEAD
 hellogrep   master test
 hellogrep hot-fix test
 
